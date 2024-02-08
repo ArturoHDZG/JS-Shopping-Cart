@@ -35,4 +35,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arturo Hernandez Garza - @ArturoHDZG
 
-Project Link: [https://github.com/ArturoHDZG/JS-Shopping-Cart](https://github.com/ArturoHDZG/JS-Shopping-Cart)https://github.com/ArturoHDZG/JS-Shopping-Cart
+Project Link: [JS-Shopping-Cart](https://github.com/ArturoHDZG/JS-Shopping-Cart)
